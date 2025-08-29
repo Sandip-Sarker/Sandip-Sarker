@@ -13,16 +13,19 @@
 ### Front-end Development
 - HTML
 - CSS
-- JavaScript (ES6+)
-- React.js
+- JQuery
+- JavaScript
+- vue.js
+- axois
 - Responsive Design
 
 ### Back-end Development
-- Node.js
-- Express.js
-- MongoDB
+- Laravel
+- PHP
+- MySql
 - RESTful APIs
 - Authentication & Authorization (JWT)
+- axois
 
 ### Additional Tools & Technologies
 - Git & GitHub
