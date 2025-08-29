@@ -51,30 +51,59 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
 </p>
+<h2 align="left">📊Github Stats:</h2>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arefin016)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-<h2 align="left">📊 GitHub Stats</h2>
+![imskr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefin016&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arefin016&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="left">:zap:Skills</h2>
+<hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefin016&show_icons=true&count_private=true)
+### Back-end Development
+- Laravel
+- PHP
+- MySql
+- RESTful APIs
+- Authentication & Authorization (JWT)
+- axois
 
----
+### Front-end Development
+- HTML
+- CSS
+- JQuery
+- JavaScript
+- vue.js
+- axois
+- Responsive Design
 
-<h2 align="left">⚡ Skills</h2>
-
-### 🔹 Back-end Development
-- Laravel, PHP, MySQL  
-- RESTful APIs, Authentication & Authorization (JWT)  
-- Axios  
-
-### 🔹 Front-end Development
-- HTML, CSS, JavaScript, JQuery  
-- Vue.js, React.js  
-- Responsive Design, Axios  
-
-### 🔹 Tools & Technologies
-- Git & GitHub  
-- Bootstrap / Tailwind CSS  
+### Additional Tools & Technologies
+- Git & GitHub
+- Bootstrap / Tailwind CSS
 - Context API
+
+
+### Back-end Development
+- Laravel
+- PHP
+- MySql
+- RESTful APIs
+- Authentication & Authorization (JWT)
+- axois
+
+### Front-end Development
+- HTML
+- CSS
+- JQuery
+- JavaScript
+- vue.js
+- axois
+- Responsive Design
+
+### Additional Tools & Technologies
+- Git & GitHub
+- Bootstrap / Tailwind CSS
+- Context API
+
+ei eireurentment unojie sob pic  sajiya fao
