@@ -10,6 +10,14 @@
 <h2 align="left">:zap:Skills</h2>
 <hr>
 
+### Back-end Development
+- Laravel
+- PHP
+- MySql
+- RESTful APIs
+- Authentication & Authorization (JWT)
+- axois
+
 ### Front-end Development
 - HTML
 - CSS
@@ -18,14 +26,6 @@
 - vue.js
 - axois
 - Responsive Design
-
-### Back-end Development
-- Laravel
-- PHP
-- MySql
-- RESTful APIs
-- Authentication & Authorization (JWT)
-- axois
 
 ### Additional Tools & Technologies
 - Git & GitHub
