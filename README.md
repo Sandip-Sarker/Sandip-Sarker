@@ -51,12 +51,6 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
 </p>
-<h2 align="left">📊Github Stats:</h2>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arefin016)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<-- ![imskr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefin016&show_icons=true&count_private=true) -->
 
 <h2 align="left">:zap:Skills</h2>
 <hr>
