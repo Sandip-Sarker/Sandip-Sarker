@@ -1,103 +1,55 @@
-<h2 align="left">💻 Languages and Tools</h2>
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  
-  <!-- Backend -->
-  <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
+<h2 align="left">💻 Languages, Frameworks & Tools</h2>
 
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
+<p align="left">
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+
+  <!-- API / Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+  <!-- Payment Gateways -->
+  <img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/paypal-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/sslcommerz/sslcommerz-logo/master/logo.png" width="80"/>
+
 </p>
 
-<h2 align="left">:zap:Skills</h2>
 <hr>
 
-### Back-end Development
-- Laravel
-- PHP
-- MySql
-- RESTful APIs
-- Authentication & Authorization (JWT)
-- axois
+<h2>⚡ Skills</h2>
 
-### Front-end Development
-- HTML
-- CSS
-- JQuery
-- JavaScript
-- vue.js
-- axois
-- Responsive Design
+<h3>🔧 Back-end Development</h3>
+<ul>
+  <li>PHP (OOP)</li>
+  <li>Laravel</li>
+  <li>RESTful API</li>
+  <li>JWT Authentication</li>
+  <li>Payment Gateway Integration (Stripe, PayPal, SSLCommerz)</li>
+  <li>MySQL Database Design</li>
+</ul>
 
-### Additional Tools & Technologies
-- Git & GitHub
-- Bootstrap / Tailwind CSS
-- Context API
+<h3>🎨 Front-end Development</h3>
+<ul>
+  <li>HTML5, CSS3</li>
+  <li>Bootstrap</li>
+  <li>JavaScript (ES6+)</li>
+  <li>jQuery</li>
+  <li>AJAX</li>
+</ul>
 
-
-### Back-end Development
-- Laravel
-- PHP
-- MySql
-- RESTful APIs
-- Authentication & Authorization (JWT)
-- axois
-
-### Front-end Development
-- HTML
-- CSS
-- JQuery
-- JavaScript
-- vue.js
-- axois
-- Responsive Design
-
-### Additional Tools & Technologies
-- Git & GitHub
-- Bootstrap / Tailwind CSS
-- Context API
-
-ei eireurentment unojie sob pic  sajiya fao
+<h3>🛠 Tools & Practices</h3>
+<ul>
+  <li>Git & GitHub</li>
+  <li>MVC Architecture</li>
+  <li>Secure Web Application Development</li>
+</ul>
