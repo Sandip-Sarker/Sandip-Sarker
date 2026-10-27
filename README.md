@@ -1,128 +1,207 @@
-<h2 align="left">🚀 Tech Stack & Expertise</h2>
+# Hi there, I'm Sandip Sarker 👋
 
-<p align="left">
+### Laravel Backend Developer | API Engineer | Deployment & Integration
 
-<!-- Backend -->
+I’m a backend developer focused on building secure, scalable, and maintainable web applications using **PHP, Laravel, and MySQL**. I work on REST APIs, database architecture, payment gateway integrations, and server deployment.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" alt="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/>
+I enjoy solving backend challenges, integrating third-party services, and turning business requirements into reliable applications.
 
-<!-- Frontend -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap"/>
-
-<!-- Database / Version Control -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
-
-<!-- Payment -->
-
-<img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="42" height="42" alt="Stripe"/>
-<img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-mark-color.svg" width="42" height="42" alt="PayPal"/>
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=FF2D20&center=true&vCenter=true&width=650&height=45&lines=Laravel+Backend+Developer;REST+API+%26+Database+Engineering;Payment+Gateway+Integration;VPS+Deployment+%26+Server+Management" alt="Typing SVG" />
 </p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<h2 align="left">⚡ Core Expertise</h2>
+---
+
+## 🚀 Technical Skills
+
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
+</p>
+
+### Database & Data Management
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Eloquent ORM" />
+  <img src="https://img.shields.io/badge/Database_Design-336791?style=flat-square&logo=databricks&logoColor=white" alt="Database Design" />
+</p>
+
+### Frontend & API Integration
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### Payment Gateways & Third-Party Integrations
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
+  <img src="https://img.shields.io/badge/Moyasar-222222?style=flat-square&logoColor=white" alt="Moyasar" />
+  <img src="https://img.shields.io/badge/SSLCommerz-008A45?style=flat-square&logoColor=white" alt="SSLCommerz" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/Webhooks-6C3483?style=flat-square&logoColor=white" alt="Webhooks" />
+</p>
+
+### DevOps, Hosting & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/CloudPanel-1D3557?style=flat-square&logoColor=white" alt="CloudPanel" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white" alt="PhpStorm" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
+</p>
+
+---
+
+## 💼 Core Expertise
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 Backend Development
-
-* PHP 8+ & Object-Oriented Programming
-* Laravel Framework
-* RESTful API Development
-* Authentication & Authorization
-* Laravel Sanctum / JWT
-* MVC & Service-Based Architecture
-* API Integration & Third-Party Services
-* Webhooks & Event-Driven Features
-* Queue & Background Jobs
-* Cron Jobs & Scheduled Tasks
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗄️ Database & Architecture
-
-* MySQL
-* Database Design & Optimization
-* Migrations & Seeders
-* Relationships & Eloquent ORM
-* Query Optimization
-* Data Validation & Transactions
-* Database Normalization
-* Secure & Scalable Architecture
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Payment & API Integrations
-
-* Stripe Integration
-* PayPal Integration
-* SSLCommerz Integration
-* Payment Webhooks
-* Subscription & Recurring Payments
-* Wallet & Commission Systems
-* Third-Party REST API Integration
-* OAuth 2.0 Integrations
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Deployment & DevOps
-
-* Linux VPS Deployment
-* CloudPanel
-* Nginx
-* Apache
-* cPanel / hPanel
-* Domain & DNS Configuration
-* SSL Configuration
-* Git-Based Deployment
-* Queue Workers
-* Server & Application Configuration
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend Engineering</h3>
+      <ul>
+        <li>Laravel MVC architecture and OOP</li>
+        <li>RESTful API development</li>
+        <li>Sanctum, JWT and API authentication</li>
+        <li>Eloquent ORM and relationships</li>
+        <li>Service classes and reusable business logic</li>
+        <li>Events, listeners, queues and notifications</li>
+        <li>Scheduled tasks and cron jobs</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ Database Engineering</h3>
+      <ul>
+        <li>MySQL schema and ERD design</li>
+        <li>Migrations, seeders and factories</li>
+        <li>Joins, subqueries and complex Eloquent queries</li>
+        <li>Transactions and data consistency</li>
+        <li>Indexes and query optimization</li>
+        <li>Relationships and database constraints</li>
+        <li>Booking and multi-business data models</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 Payment & Business Logic</h3>
+      <ul>
+        <li>Stripe, PayPal and Moyasar integration</li>
+        <li>SSLCommerz payment integration</li>
+        <li>Payment webhooks and status verification</li>
+        <li>Subscriptions and recurring billing</li>
+        <li>Multi-vendor commissions and revenue sharing</li>
+        <li>Wallet and escrow-related workflows</li>
+        <li>Third-party APIs and OAuth integrations</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Deployment & Infrastructure</h3>
+      <ul>
+        <li>Laravel application deployment</li>
+        <li>Hostinger VPS and CloudPanel</li>
+        <li>Nginx, domains, DNS and SSL certificates</li>
+        <li>Environment configuration and production debugging</li>
+        <li>React/Vite and Next.js deployment workflows</li>
+        <li>PM2 process management for Node.js apps</li>
+        <li>Git-based deployment and server troubleshooting</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-<br>
+---
 
-<h2 align="left">🛠️ Development Tools</h2>
+## 🏗️ What I Build
 
-<p align="left">
+- **Booking Systems:** Reservation workflows, booking status management, cancellations and notifications.
+- **Multi-Vendor Platforms:** Business-specific dashboards, commissions, revenue sharing and role-based access.
+- **REST APIs:** Secure authentication, validation, resource responses and third-party integrations.
+- **Payment Systems:** Checkout workflows, webhook processing, subscriptions and payment status synchronization.
+- **Notification Systems:** Database notifications, queued jobs and scheduled background tasks.
+- **Admin Dashboards:** Role and permission management, reporting, data tables and business operations.
+- **AI-Powered Applications:** Exploring LLM integrations and AI-assisted features with Laravel.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+---
 
+## ☁️ Hosting & Deployment Experience
+
+I work with web application deployment and production troubleshooting across shared hosting and VPS environments.
+
+- **VPS & Hosting:** Hostinger VPS, cPanel, hPanel and CloudPanel.
+- **Web Servers:** Nginx configuration, reverse proxy basics and application routing.
+- **Domains & Security:** DNS records, subdomains, HTTPS and SSL configuration.
+- **Application Deployment:** Laravel, React/Vite and Next.js deployment workflows.
+- **Process Management:** PM2 for Node.js applications and queue worker configuration for Laravel.
+- **Production Debugging:** Environment variables, HTTP errors, logs and application connectivity.
+
+---
+
+## 🤖 Current Learning & Exploration
+
+- Advanced Laravel architecture and scalable API design.
+- MySQL performance optimization and transaction safety.
+- Docker fundamentals and production deployment.
+- React integration with Laravel APIs.
+- Laravel AI integrations with OpenRouter and Ollama.
+- Workflow automation with n8n.
+- Background processing, caching and application performance.
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 </p>
 
-<h2 align="left">🎯 Currently Focused On</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" alt="GitHub Streak" />
+</p>
 
-* Building scalable Laravel REST APIs
-* Advanced Laravel architecture & design patterns
-* API security and performance optimization
-* Third-party API & payment integrations
-* Linux VPS deployment and server management
-* React for API-driven frontend development
-* Improving system architecture and database performance
+---
+
+## 🤝 Let's Connect
+
+I'm interested in backend engineering, Laravel development, API integrations, payment systems and scalable web applications.
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email Me</a>
+</p>
+
+<p align="center">
+  <i>Building reliable backends, one API at a time. 🚀</i>
+</p>
