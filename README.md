@@ -23,7 +23,8 @@
 <!-- Payment -->
 
 <img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="42" height="42" alt="Stripe"/>
-<img src="https://cdn.worldvectorlogo.com/logos/paypal-icon.svg" width="42" height="42" alt="PayPal"/>
+<img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-mark-color.svg" width="42" height="42" alt="PayPal"/>
+
 
 </p>
 
