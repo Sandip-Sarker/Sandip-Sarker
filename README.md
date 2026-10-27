@@ -11,7 +11,7 @@ I enjoy solving backend challenges, integrating third-party services, and turnin
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandip202/">
+  <a href="https://github.com/Sandip-Sarker">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/sandip202/">
