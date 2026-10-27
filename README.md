@@ -179,27 +179,14 @@ I work with web application deployment and production troubleshooting across sha
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in backend engineering, Laravel development, API integrations, payment systems and scalable web applications.
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email Me</a>
+  <a href="https://github.com/Sandip-Sarker">GitHub</a> •
+  <a href="https://www.linkedin.com/in/sandip202/">LinkedIn</a> •
+  <a href="mailto:sandipsarke96@gmail.com">Email Me</a>
 </p>
 
 <p align="center">
